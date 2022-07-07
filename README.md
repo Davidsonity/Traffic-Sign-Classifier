@@ -6,8 +6,9 @@
   
   ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Traffic_Sign_Classifier)
   ![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Traffic_Sign_Classifier)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Traffic_Sign_Classifierd.svg)](https://GitHub.com/Davidsonity/Traffic_Sign_Classifier/graphs/contributors/)
-  [![GitHub license](https://img.shields.io/github/license/Davidsonity/Traffic_Sign_Classifierd.svg)](https://github.com/Davidsonity/Traffic_Sign_Classifier/blob/master/LICENSE)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Traffic_Sign_Classifier.svg)](https://GitHub.com/Davidsonity/Traffic_Sign_Classifier/graphs/contributors/)
+  [![GitHub license](https://img.shields.io/github/license/Davidsonity/Traffic_Sign_Classifier.svg)](https://github.com/Davidsonity/Traffic_Sign_Classifier/blob/master/LICENSE)
+
 </p>  
 
 ## About Dataset📋
@@ -23,4 +24,3 @@ The German Traffic Signs
 📓 Exploratory Data Analysis\
 📓 Visualization \
 📓 Model Building
-
