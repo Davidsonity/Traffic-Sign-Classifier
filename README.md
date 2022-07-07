@@ -6,8 +6,21 @@
   
   ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Traffic_Sign_Classifier)
   ![GitHub forks](https://img.shields.io/github/forks/Davidsonity/Traffic_Sign_Classifier)
-  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Dog_Breed.svg)](https://GitHub.com/Davidsonity/Traffic_Sign_Classifier/graphs/contributors/)
+  [![GitHub contributors](https://img.shields.io/github/contributors/Davidsonity/Traffic_Sign_Classifierd.svg)](https://GitHub.com/Davidsonity/Traffic_Sign_Classifier/graphs/contributors/)
   [![GitHub license](https://img.shields.io/github/license/Davidsonity/Traffic_Sign_Classifierd.svg)](https://github.com/Davidsonity/Traffic_Sign_Classifier/blob/master/LICENSE)
 </p>  
-\
-Data Source: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+## About Dataset📋
+
+The German Traffic Signs
+- Single-image, multi-class classification problem
+- 43 classes
+- More than 50,000 images in total
+- Data Source: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
+## Sections🗂️
+### Notebook📚: 
+📓 Exploratory Data Analysis\
+📓 Visualization \
+📓 Model Building
+
