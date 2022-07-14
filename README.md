@@ -1,6 +1,6 @@
 <p align="center">
   
-  [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Traffic_Sign_Classifier/blob/main/Notebook/Traffic_Sign_Classifier.ipynb)
+  [![Made In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Davidsonity/Traffic_Sign_Classifier/blob/main/Notebook/Traffic_Sign_Classification.ipynb)
 
   [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
   ![GitHub stars](https://img.shields.io/github/stars/Davidsonity/Traffic_Sign_Classifier)
