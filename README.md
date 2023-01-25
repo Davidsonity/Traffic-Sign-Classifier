@@ -20,9 +20,8 @@ We would also be using transfer learning. The model used is the Xception model.
 Data Source: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 ### Results
-Accuracy over the test set: 95.65%
-Validation accuracy of 98%+ while training model. 
-Accuracy of 94%+ on new unseen test dataset.
+- Validation accuracy of 98%+ while training model. 
+- Accuracy of 94%+ on new unseen test dataset.
 
 ### Deployment:
 NaN
